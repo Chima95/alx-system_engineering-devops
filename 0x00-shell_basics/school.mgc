@@ -1,4 +1,4 @@
 0 string SCHOOL School data
 !:mime School in vi environment 
-In terminal
+in terminal
 file -C -m filename
